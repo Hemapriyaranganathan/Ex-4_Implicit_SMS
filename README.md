@@ -1,3 +1,4 @@
+
 # Ex.No:4 Design an android application Send SMS using Intent.
 
 
@@ -27,16 +28,17 @@ Step 7: Save and run the application.
 
 ## PROGRAM:
 ```
-/*
+
 Program to create and design an android application Send SMS using Intent.
-Developed by:Hemapriya R
-Registeration Number :212222040055
-*/
+Developed by: Hemapriya R
+Registeration Number : 212222040055
+
 ```
 
 ## MainActivity.java:
+
 ```
-package com.example.exp4;
+package com.example.exp_4;
 
 import android.os.Bundle;
 
@@ -70,7 +72,9 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+
 ## activitymain.xml:
+
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -91,19 +95,13 @@ public class MainActivity extends AppCompatActivity {
 
 </RelativeLayout>
 ```
-
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/c7535406-7632-4f8e-9f45-98467ab762d8)
 
+![MAD EXP-4(1)](https://github.com/user-attachments/assets/45ddf316-3077-4f3f-85cb-8786ad1a2823)
 
-![image](https://github.com/user-attachments/assets/935f8eff-7e5f-4f5d-b52a-da4531183c5c)
+![MAD EXP-4(2)](https://github.com/user-attachments/assets/2d79a149-385b-4df2-b45f-45d7a32b6900)
 
-
-![image](https://github.com/user-attachments/assets/e459941b-2e2c-40e6-b7b4-abf326ff5e24)
-
-
-
-
+![MAD EXP-4(3)](https://github.com/user-attachments/assets/aea6e8db-e427-4795-861d-f776db95003a)
 
 ## RESULT
 Thus a Simple Android Application create and design an android application Send SMS using Intent using Android Studio is developed and executed successfully.
